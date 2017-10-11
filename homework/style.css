@@ -1,0 +1,38 @@
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    line-height: 26px;
+    margin-bottom: 0rem;
+    margin-top: 3rem;
+}
+aside{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: #666666;
+    font-size: 14px;
+    line-height: 26px;
+    margin-bottom: 3rem;
+}
+article{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: #333333;
+    font-size: 15px;
+    line-height: 26px;
+}
+p{
+    margin-top: 1rem;
+}
+span{
+    color: #999999;
+    margin-right: 0.15rem;
+}
+span.mod{
+    color: #999999;
+    margin-left: 1rem;
+    margin-right: 0.15rem;
+    border-left: 0.1rem solid #999999;
+    padding-left: 1rem;
+}

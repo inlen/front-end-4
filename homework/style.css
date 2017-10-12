@@ -1,26 +1,23 @@
-h2{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    color: #000000;
-    font-size: 24px;
-    line-height: 26px;
-    margin-bottom: 0rem;
-    margin-top: 3rem;
-}
-aside{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
-    color: #666666;
-    font-size: 14px;
-    line-height: 26px;
-    margin-bottom: 3rem;
-}
 article{
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
+    line-height: 1.625rem;
+}
+h1{
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    margin-bottom: 0.15rem;
+    margin-top: 3rem;
+}
+header{
+    color: #666666;
+    font-size: 14px;
+    margin-bottom: 3rem;
+}
+div{
     color: #333333;
     font-size: 15px;
-    line-height: 26px;
 }
 p{
     margin-top: 1rem;
